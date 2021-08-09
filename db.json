@@ -1,3 +1,5 @@
 {
-  "dumpARN": "arn::some-arn-awrn"
+  "get-dump-arn": { 
+    "dumpARN": "arn::some-arn-awrn"
+  }
 }
