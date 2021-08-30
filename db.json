@@ -1,6 +1,6 @@
 {
 "get-dump-arn": { 
-   "snapshotId":"dev-test-tenant-templates-micro-api-138097994451-2021-aug-29-162927",
-   "snapshotArn":"arn:aws:rds:us-east-1:138097994451:snapshot:dev-test-tenant-templates-micro-api-138097994451-2021-aug-29-162927"
+   "snapshotId":"dev-test-tenant-templates-micro-api-138097987654-2021-aug-29-162927",
+   "snapshotArn":"arn:aws:rds:us-east-1:138097098765:snapshot:dev-test-tenant-templates-micro-api-0987654433-2021-aug-29-162927"
   }
 }
